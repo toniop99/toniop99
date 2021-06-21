@@ -1,17 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toniop99)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" width="300">
+    <img align="center" width="200" src="https://user-images.githubusercontent.com/35426566/122833009-86c36800-d2ec-11eb-808c-323073f018ae.png"/>
+    <h3 align="center">¡Hola 🖖! Soy Antonio, desarrollador y creador.</h3>
+</p>
 
+<a href="https://antoniohnz.me/" target='_blank'>
+  <img width='45%' src='https://github-readme-stats.vercel.app/api?username=toniop99&theme=radical&show_icons=true' alt='Github statistic.' />
+</a>
 
-<!--
-**toniop99/toniop99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://antoniohnz.me/" target='_blank'>
+  <img width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=toniop99&layout=compact' alt='Most used languages.' />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
